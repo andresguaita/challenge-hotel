@@ -1,0 +1,38 @@
+{
+    "roomsTypes":
+    [{
+        "id": 1,
+        "description": "Habitación Doble Deluxe",
+        "wifi" : true,
+        "tv" : true,
+        "airConditioning": true,
+        "oceanView": true,
+        "quantitytwinBed" : 3,
+        "quantityqueenBed":3,
+        "costNight": 80
+
+    },
+    {
+        "id": 2,
+        "description": "Habitación Deluxe",
+        "wifi" : true,
+        "tv" : true,
+        "airConditioning": true,
+        "oceanView": false,
+        "quantitytwinBed" : 2,
+        "quantityqueenBed":1,
+        "costNight": 50
+    },
+    {
+        "id": 3,
+        "description": "Habitación Basica",
+        "wifi" : true,
+        "tv" : true,
+        "airConditioning": true,
+        "oceanView": false,
+        "quantitytwinBed" : 2,
+        "quantityqueenBed":0,
+        "costNight": 30
+    }
+]
+}
