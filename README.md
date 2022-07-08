@@ -65,3 +65,5 @@ asi que para ello es necesario ejecutar los siguientes endpoints.
     "bookingId": "8f6bd2c2-852a-43e6-bc9d-7cc5c978ce53"
 }
 
+### JSON Link para respositorio en POSTMAN
+https://www.getpostman.com/collections/2e3a413e92568850ff3a
