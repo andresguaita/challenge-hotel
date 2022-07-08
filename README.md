@@ -4,7 +4,7 @@
 
 ### A continuacion se marcan los pasos para ejecutar el proyecto.
 
-# Para acceder a los endpoint sin descargar el proyecto usar el host : http://54.221.5.100/
+# Para acceder a los endpoint sin descargar el proyecto usar el host : https://booking-api-andres.herokuapp.com/
 
 # Si desea ejecutarlo en el entorno local, siga los siguientes pasos:
 
